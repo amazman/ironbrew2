@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronBrew2", "IronBrew2.csproj", "{7DA530FE-FD13-4891-965E-BB5F1768C7D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronBrew2 CLI", "..\IronBrew2 CLI\IronBrew2 CLI.csproj", "{F968CCC3-08B9-4EA6-8139-1389726F8B02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA530FE-FD13-4891-965E-BB5F1768C7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA530FE-FD13-4891-965E-BB5F1768C7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA530FE-FD13-4891-965E-BB5F1768C7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA530FE-FD13-4891-965E-BB5F1768C7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F968CCC3-08B9-4EA6-8139-1389726F8B02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F968CCC3-08B9-4EA6-8139-1389726F8B02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F968CCC3-08B9-4EA6-8139-1389726F8B02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F968CCC3-08B9-4EA6-8139-1389726F8B02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12B5AC5E-1EED-47EF-8C78-A5387C4FC6D1}
+	EndGlobalSection
+EndGlobal

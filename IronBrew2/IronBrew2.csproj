@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+</PropertyGroup>
+
+<ItemGroup>
+    <PackageReference Include="Microsoft.DotNet.PlatformAbstractions" Version="3.0.1" />
+    <PackageReference Include="System.IO" Version="4.3.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="4.6.0-preview.18571.3" />
+</ItemGroup>
+
+<ItemGroup>
+    <Folder Include="Bytecode Library" />
+</ItemGroup>
+
+</Project>

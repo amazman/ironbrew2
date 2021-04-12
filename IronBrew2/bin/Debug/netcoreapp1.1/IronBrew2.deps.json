@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "64994ac39b8b10f26479e6f851cfe948f97d9abd"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "ironbrew2/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.PlatformAbstractions": "3.0.1",
+          "System.Text.Encoding.CodePages": "4.6.0-preview.18571.3"
+        },
+        "runtime": {
+          "IronBrew2.dll": {}
+        }
+      },
+      "microsoft.dotnet.platformabstractions/3.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll": {}
+        }
+      },
+      "system.text.encoding.codepages/4.6.0-preview.18571.3": {
+        "runtime": {
+          "lib/netstandard1.3/System.Text.Encoding.CodePages.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netstandard1.3/System.Text.Encoding.CodePages.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ironbrew2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "microsoft.dotnet.platformabstractions/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bfIEdDkUBMThtCPNQquo3m4m8jVYsMn7DexRfnNB3U+O944hhvPg8CTla4Uf8OBJ2YUO0uVmnNPG6iArDoS/xQ==",
+      "path": "microsoft.dotnet.platformabstractions/3.0.1",
+      "hashPath": "microsoft.dotnet.platformabstractions.3.0.1.nupkg.sha512"
+    },
+    "system.text.encoding.codepages/4.6.0-preview.18571.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MYFHOtbSfHdWXtG8gqqfFdEfy6mkIGqyIeI1H8U5ChlSx5/VW595B7JAtbX942lYUHzC6CXCcoILD7scN05c9Q==",
+      "path": "system.text.encoding.codepages/4.6.0-preview.18571.3",
+      "hashPath": "system.text.encoding.codepages.4.6.0-preview.18571.3.nupkg.sha512"
+    }
+  }
+}

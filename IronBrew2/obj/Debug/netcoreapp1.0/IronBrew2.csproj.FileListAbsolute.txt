@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2\bin\Debug\netcoreapp1.0\IronBrew2.deps.json
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2\obj\Debug\netcoreapp1.0\IronBrew2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2\obj\Debug\netcoreapp1.0\IronBrew2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pace-master\ironbrew-2-master\IronBrew2\obj\Debug\netcoreapp1.0\IronBrew2.AssemblyInfo.cs
